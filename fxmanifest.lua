@@ -3,6 +3,7 @@ game 'gta5'
 
 author 'FB - Shop'
 description 'Et Jobcenter som udnytter ox scripts'
+discord 'https://discord.gg/RXKxvsVJp2'
 version '1.0.0'
 lua54 'yes'
 
